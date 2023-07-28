@@ -12,7 +12,7 @@ I am currently a doctoral student in the Strategy Unit at Harvard Business Schoo
 
 My primary research interests are in entrepreneurship across the spectrum of new firm creation, from small businesses to high-growth-potential startups. My job market paper is at the intersection of entrepreneurship and personnel economics: drawing on a novel survey experiment I conducted with approximately 550 high-growth-potential U.S. startups, I investigate how entrepreneurs search for employees and set compensation. 
 
-I have taught undergraduates in the Harvard University Economics Department, and served as a teaching fellow for MBAs at Harvard Business School.
+I have taught undergraduates in the Harvard University Economics Department (sole instructor), and served as a teaching fellow for MBAs at Harvard Business School.
 
 
 Research in Progress
@@ -20,11 +20,11 @@ Research in Progress
 
 “How do Entrepreneurs Set Wages?” [Job Market Paper - draft coming soon]
 
-“The Composition and Dynamics ofTechnology-Enabled Entrepreneurship” with Daniel P. Gross, and Jorge Guzman.
-[Revise and Resubmit, Strategic Management Journal]
+“The Composition and Dynamics ofTechnology-Enabled Entrepreneurship” with Daniel P. Gross, and Jorge Guzman.\
+[Revise and Resubmit, Strategic Management Journal]\
 [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4383445)
 
-“No Mask, No Service: Customer Reaction to Walmart’s 2020 National Mask Mandate”
+“No Mask, No Service: Customer Reaction to Walmart’s 2020 National Mask Mandate”\
 [Revise and Resubmit, the Journal of Economics and Management Strategy]
 
 “The Transformation of Self Employment” with Margaret G. Dalton, Sari Pekkala Kerr, and William R. Kerr.
