@@ -22,7 +22,7 @@ Research in Progress
 
 “How do Entrepreneurs Set Wages?” [Job Market Paper - draft coming soon]
 
-“The Composition and Dynamics ofTechnology-Enabled Entrepreneurship” with Daniel P. Gross, and Jorge Guzman.\
+“The Composition and Dynamics of Technology-Enabled Entrepreneurship” with Daniel P. Gross, and Jorge Guzman.\
 *[Revise and Resubmit, Strategic Management Journal]*\
 [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4383445)
 
