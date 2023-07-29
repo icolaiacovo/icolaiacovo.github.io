@@ -16,6 +16,8 @@ My primary research interests are in entrepreneurship across the spectrum of new
 
 I have taught undergraduates in the Harvard University Economics Department (sole instructor), and served as a teaching fellow for MBAs at Harvard Business School.
 
+Please click [here](/files/Colaiacovo_CV_jul28.pdf) for a copy of my CV. 
+
 
 Research in Progress
 ======
