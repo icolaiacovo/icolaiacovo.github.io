@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-### “How do Entrepreneurs Set Wages?” [Job Market Paper - latest draft](files/JMP_currentdraft_21aug2023.pdf)
+### “How do Entrepreneurs Set Wages?” [Job Market Paper, please click here(../files/JMP_currentdraft_21aug2023.pdf) for most recent version]
 
 What hiring strategies and resources do entrepreneurs use, and how do they think about setting compensation for their employees? 
 Hiring beyond the founding team is essential to scaling a venture, but labor and search are extremely costly. To investigate hiring at growth-capable startups, 
