@@ -16,20 +16,3 @@ My primary research interests are in entrepreneurship across the spectrum of new
 
 I have taught undergraduates in the Harvard University Economics Department (as sole instructor), and served as a teaching fellow for MBAs at Harvard Business School.
 
-Please click [here](/files/Colaiacovo_CV.pdf) for a copy of my CV. 
-
-
-Working Papers
-======
-
-“How do Entrepreneurs Set Wages?” [Job Market Paper - draft coming soon]
-
-“The Composition and Dynamics of Technology-Enabled Entrepreneurship” with Daniel P. Gross, and Jorge Guzman. [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4383445)\
-*[Revise and Resubmit, Strategic Management Journal]*
-
-
-“No Mask, No Service: Customer Reaction to Walmart’s 2020 National Mask Mandate”\
-*[Revise and Resubmit, the Journal of Economics and Management Strategy]*
-
-“The Transformation of Self Employment” with Margaret G. Dalton, Sari Pekkala Kerr, and William R. Kerr.
-NBER Working Paper w29725. [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028341)
