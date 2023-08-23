@@ -1,12 +1,16 @@
 ---
 permalink: /research
 title: "Research"
+author_profile: true
 redirect_from: 
   - /research/
   - /research.html
 ---
 
-“How do Entrepreneurs Set Wages?” [Job Market Paper - this draft is updated frequently]
+Working Papers
+======
+
+“How do Entrepreneurs Set Wages?” [Job Market Paper - latest draft]
 
 What hiring strategies and resources do entrepreneurs use, and how do they think about setting compensation for their employees? 
 Hiring beyond the founding team is essential to scaling a venture, but labor and search are extremely costly. To investigate hiring at growth-capable startups, 
@@ -16,4 +20,16 @@ This paper shows that these founders are much less likely than established firms
 Finally, soliciting a "fair" wage rather than framing wages as a cost induced non-male entrepreneurs to recommend wages that were \$11,000 higher, on average. 
 Taken together, these results suggest that startup hiring is undertaken by entrepreneurs under severe constraints and that compensation may be influenced both 
 by available information and founder characteristics. 
+
+“The Composition and Dynamics of Technology-Enabled Entrepreneurship” with Daniel P. Gross, and Jorge Guzman. [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4383445)\
+*[Revise and Resubmit, Strategic Management Journal]*
+
+“No Mask, No Service: Customer Reaction to Walmart’s 2020 National Mask Mandate”\
+*[Revise and Resubmit, the Journal of Economics and Management Strategy]*
+
+“The Transformation of Self Employment” with Margaret G. Dalton, Sari Pekkala Kerr, and William R. Kerr.
+NBER Working Paper w29725. [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028341)
+
+
+
 
