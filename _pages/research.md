@@ -12,23 +12,12 @@ author_profile: true
 What hiring strategies and resources do entrepreneurs use, and how do they think about setting compensation for their employees? 
 Hiring beyond the founding team is essential to scaling a venture, but labor and search are extremely costly. To investigate hiring at growth-capable startups, 
 I conduct a novel survey and experiment with 540 founders of U.S.-based startups that have, on average, 18 employees and \\$6.8 million of funding. 
-Entrepreneurs initially described hiring and compensation-setting at their own firms and then were asked for their best advice about wages for four fictitious job postings. 
-This paper shows that these founders are much less likely than established firms to have human resources personnel and access to compensation consultants or paid wage benchmarking data, relying instead on word-of-mouth and free online services. Entrepreneurs' wage advice is highly dispersed and sensitive to information, particularly when the entrepreneur is a first-time founder or lacks experience with that position.
-Finally, soliciting a "fair" wage rather than framing wages as a cost induced non-male entrepreneurs to recommend wages that were \\$11,000 higher, on average. 
-Taken together, these results suggest that startup hiring is undertaken by entrepreneurs under severe constraints and that compensation may be influenced both 
+Entrepreneurs initially described hiring and compensation-setting at their own firms and then were asked for their best advice about wages for four fictitious job postings. This paper shows that these founders are much less likely than established firms to have human resources personnel and access to compensation consultants or paid wage benchmarking data, relying instead on word-of-mouth and free online services. Entrepreneurs' wage advice is highly dispersed and sensitive to information, particularly when the entrepreneur is a first-time founder or lacks experience with that position. Finally, soliciting a "fair" wage rather than framing wages as a cost induced non-male entrepreneurs to recommend wages that were \\$11,000 higher, on average. Taken together, these results suggest that startup hiring is undertaken by entrepreneurs under severe constraints and that compensation may be influenced both 
 by available information and founder characteristics. 
 
 ### “The Composition and Dynamics of Technology-Enabled Entrepreneurship” with Daniel P. Gross, and Jorge Guzman. *[Revise and Resubmit, Strategic Management Journal]* [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4383445) 
 
-Using data on nearly all U.S. business registrations since the turn of the twentieth century,
-and a set of 386 major technologies invented over this period, we study the level, composi-
-tion, and dynamics of entrepreneurial activity around new technology. We  nd a large, varied
-entrepreneurial economy rooted in innovation, where the vast majority of startups are not high-
-growth technology entrepreneurs but rather local, low-growth  rms engaged in a wide range of
-complementary activities. The level and composition of this  rm creation varies across technolo-
-gies and over the technology lifecycle, and can be predicted from a technology's initial patents.
-We discuss implications of this evidence for research in entrepreneurial and technology strategy,
-business ecosystems, and industry dynamics.
+Using data on nearly all U.S. business registrations since the turn of the twentieth century, and a set of 386 major technologies invented over this period, we study the level, composition, and dynamics of entrepreneurial activity around new technology. We find a large, varied entrepreneurial economy rooted in innovation, where the vast majority of startups are not high-growth technology entrepreneurs but rather local, low-growth firms engaged in a wide range of complementary activities. The level and composition of this firm creation varies across technologies and over the technology lifecycle, and can be predicted from a technology's initial patents. We discuss implications of this evidence for research in entrepreneurial and technology strategy, business ecosystems, and industry dynamics.
 
 ### “No Mask, No Service: Customer Reaction to Walmart’s 2020 National Mask Mandate” *[Revise and Resubmit, the Journal of Economics and Management Strategy]*
 
