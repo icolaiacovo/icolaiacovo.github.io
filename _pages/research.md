@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-### “How do Entrepreneurs Set Wages?” [Job Market Paper, please click here for most recent version](/files/JMP_currentdraft.pdf)
+### “How do Entrepreneurs Set Wages?” [Job Market Paper, please click here for most recent version](/files/Colaiacovo_JMP_currentdraft.pdf)
 
 Hiring beyond the founding team is essential to scaling a venture, but labor and search are extremely costly. What hiring strategies do entrepreneurs use, and how do they think about setting compensation for their employees? I conduct a novel survey and experiment with 540 founders of growth-capable U.S. startups that have, on average, 18 employees and \\$6.8 million of funding. Entrepreneurs initially described hiring and compensation-setting at their own firms and then were asked for their best advice about wages for four fictitious job postings. This paper shows that founders report being involved in all aspects of the hiring process, even at the minority of startups that have human resources staff. Startups are less likely than established firms to use paid consultants or wage benchmarking data, relying instead on word-of-mouth advice and free online services to research compensation. Entrepreneurs' wage advice is highly dispersed and sensitive to information, particularly when the entrepreneur is a first-time founder or lacks experience with a given job. Finally, soliciting a "fair" wage rather than framing wages as a cost induced non-male entrepreneurs to recommend wages that were \\$11,000 higher, on average. Taken together, these results suggest that startup hiring is a founder-centric process and that wages at startups may be influenced both by available information and by founders' own utility, beliefs, and preferences.
 
