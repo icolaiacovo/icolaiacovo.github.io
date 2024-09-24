@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 ### “How do Entrepreneurs Set Wages?” [Draft on request]
-#[Job Market Paper, please click here for most recent version](/files/Colaiacovo_JMP_currentdraft.pdf)
 
 ### “The Composition and Dynamics of Technology-Enabled Entrepreneurship” with Daniel P. Gross, and Jorge Guzman. *[Revise and Resubmit, Strategic Management Journal]* [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4383445) 
 
